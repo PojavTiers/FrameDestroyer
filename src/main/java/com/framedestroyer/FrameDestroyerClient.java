@@ -18,7 +18,7 @@ public class FrameDestroyerClient implements ClientModInitializer {
                 "key.frame_destroyer.toggle",
                 InputUtil.Type.KEYSYM,
                 GLFW.GLFW_KEY_O,
-                key.categories.misc
+                "key.categories.misc"
             )
         );
 
